@@ -20,7 +20,7 @@ import { axiosInstance } from './lib/axios.js';
 
 import axios from 'axios';*/
 import useAuthUser from './hooks/useAuthUser.js';
-import { useThemeStore } from './store/useThemestore.js';
+import { useThemeStore } from './store/useThemeStore.js';
 
 const App = () => {
   // tanstack query crash course
